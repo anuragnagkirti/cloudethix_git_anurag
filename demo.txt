@@ -1,4 +1,1 @@
 echo " Hi , I am anurag"
-echo "I am practicing jenkins" 
-echo "Hiiiiiiiiiiiiiiiiiiiiiiiii"
-echo "WWWWWWWWWWOOOOOOOOOOOOOOOOOOWWWWWWWWWWWWWW"
